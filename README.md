@@ -77,7 +77,8 @@ The codebase is organized into sequential notebooks representing the data scienc
 
 ---
 
-## 📬 Contact
-* **Author:** [Your Name]
-* **Role:** Data Scientist
-* **Links:** [LinkedIn Profile] | [Portfolio Website]
+## 👤 Author
+
+**Erik Yuri Dutzig**
+*Data Scientist | Production Engineer*
+[LinkedIn](https://linkedin.com/in/yuridmayer) | [GitHub](https://github.com/yuridmayerpro)
